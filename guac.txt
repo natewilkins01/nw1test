@@ -2,7 +2,7 @@ avocado
 salt 
 lime juice
 garlic
-cumin
+something
 cilantro
 tomato
 red onion
